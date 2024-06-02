@@ -151,3 +151,5 @@ if __name__ == '__main__':
     # G.function5('to', 'to')
     # G.function6('to')
     # modify
+
+    # B2 modify
